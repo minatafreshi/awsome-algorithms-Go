@@ -2,7 +2,7 @@
 
 A curated list of awesome sources to learn algorithms in Golang.
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/minatafreshi/awesome-algorithms-go/master/CONTRIBUTING.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/minatafreshi/awsome-algorithms-Go/blob/master/CONTRIBUTING.md).
 
 - [Awesome Algorithms Go](#awesome-algorithms-go)
     - [Websites](#websites)
